@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596362878013",
+    "project_id": "food-recipe-a4bca",
+    "storage_bucket": "food-recipe-a4bca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596362878013:android:7a76453222ec798929de54",
+        "android_client_info": {
+          "package_name": "com.example.food_recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApdE-mHMO_RpdB7-ObaE01CQVy3L_0NGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
